@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2017-08-01T17:35:36Z" finished-at="2017-08-01T17:35:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2017-08-01T17:35:36Z" finished-at="2017-08-01T17:35:37Z">
+      <class name="webdriverexamples.class1">
+        <test-method status="PASS" signature="Tc2()[pri:0, instance:webdriverexamples.class1@5419f379]" name="Tc2" duration-ms="10" started-at="2017-08-01T23:05:36Z" finished-at="2017-08-01T23:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+        <test-method status="PASS" signature="Tc1()[pri:1, instance:webdriverexamples.class1@5419f379]" name="Tc1" duration-ms="1" started-at="2017-08-01T23:05:37Z" finished-at="2017-08-01T23:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+      </class> <!-- webdriverexamples.class1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
